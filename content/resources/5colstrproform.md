@@ -32,6 +32,11 @@ description: 'These pro-forma financial statements are for the use of Collaborat
   discussion of other strategies.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/5613194850d082feb1237e937eb4f76f_5colstrproform.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 114c88d8-52c5-4d3e-8b33-af02405d49c1
 resourcetype: Document
 title: 5colstrproform.pdf
